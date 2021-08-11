@@ -9,6 +9,9 @@ In this four part blog series, we walk you through a working Proof of Concept (P
 - [Part 4](https://www.lightbend.com/blog/how-to-distribute-application-state-with-akka-cluster-part-4-the-source-code) - Source Code: In our final installment, we do a deep dive into our Scala source code.
  	
 ----------------
+## Update: August, 11, 2021
+- created branch `mread-add-grpc-endpoint` to illustrate how to leverage both Akka HTTP and Akka gRPC APIs bound to the same port. This branch will be merged to `main` once I've had a chance to add multi-jvm tests, and update the blog. 
+
 ## Update: August, 6, 2021
 - fixed deprecation warnings
 
