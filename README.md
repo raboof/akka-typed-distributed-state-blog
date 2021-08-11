@@ -10,7 +10,7 @@ In this four part blog series, we walk you through a working Proof of Concept (P
  	
 ----------------
 ## Update: August, 11, 2021
-- created branch `mread-add-grpc-endpoint` to illustrate how to leverage both Akka HTTP and Akka gRPC APIs bound to the same port. This branch will be merged to `main` once I've had a chance to add multi-jvm tests, and update the blog. 
+- created new branch `mread-add-grpc-endpoint` to illustrate how to leverage both Akka HTTP and Akka gRPC APIs bound to the same port. This branch will eventually be merged to `master` once I've had a chance to add multi-jvm tests, and update the blog. 
 
 ## Update: August, 6, 2021
 - fixed deprecation warnings
